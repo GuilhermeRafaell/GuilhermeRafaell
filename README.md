@@ -1,12 +1,14 @@
 ## Olá!  
 
 - 🌱 Hoje Estudando Sistema de Informação - UFU
+- 🎓 Atualmente viso explorar todo conhecimento prático obtido em projetos de extensões e nas monitorias que apliquei até hoje na universidade, entre elas a disciplina de Banco de Dados e Estrutura de Dados. Tenho como objetivo criar diversos projetos que envolvam diferentes tópicos que venho aprendendo e disponibiliza-los aqui no meu repositório 😁
 
 <div>
   <a href="https://github.com/GuilhermeRafaell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRafaell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRafaell&layout=compact&langs_count=6&theme=dark"/>
 </div>
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="V-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
