@@ -1,7 +1,7 @@
 ## Olá!  
 
 - 🌱 Hoje quase finalizando o curso de Sistema de Informação na UFU 😁
-- 📒 Atualmente atuando no Front-End empresa Kyros utilizando tecnologias como React , Node.js e Angular, TypeScript e JavaScript.
+- 📒 Atualmente atuando no Front-End empresa Kyros utilizando tecnologias como HTML, CSS, React , Node.js e Angular, TypeScript e JavaScript.
 - 🎓 Atualmente viso explorar todo conhecimento prático obtido em projetos de extensões e nas monitorias que apliquei até então na universidade, entre elas a disciplina de Banco de Dados e Estrutura de Dados. Tenho como objetivo criar diversos projetos ,de minha vontade, que envolvam diferentes tópicos que venho aprendendo e disponibiliza-los aqui no meu repositório.
 
 <div>
