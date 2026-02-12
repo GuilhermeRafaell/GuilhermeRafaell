@@ -1,6 +1,6 @@
 ## Opa eai!  
 
-- 🌱 Formado no curso Sistema de Informação pela UFU e atleta nas hpras vagas 😁 
+- 🌱 Formado no curso Sistema de Informação pela UFU e atleta nas horas vagas 😁 
 - 📒 Atualmente atuando como Full-Stack na empresa Kyros Tecnologia utilizando tecnologias como HTML, CSS, React , Node.js e Angular, TypeScript, JavaScript, Python, Java entre muitos outras linguagens
 - 🎓 Atualmente viso explorar todo conhecimento prático e teorico obtido em projetos de extensões, monitorias e nas disciplinas que cursei até então na universidade e em projetos extracurriculares. Tenho como objetivo criar diversos projetos,de minha vontade, que envolvam diferentes tópicos que venho aprendendo e disponibiliza-los aqui no meu repositório.
 
