@@ -10,9 +10,12 @@
 
 # 💫 Sobre mim
 
-💻 Engenheiro Software com experiência em aplicações escaláveis  
+💻 Engenheiro Software com experiência em aplicações escaláveis
+
 🚀 Apaixonado por tecnologia, UX/UI 
+
 ⚡ Forte atuação com Angular, TypeScript, React e integrações 
+
 🏃 Atleta e apaixonado por performance dentro e fora do código  
 
 ---
