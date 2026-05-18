@@ -1,12 +1,3 @@
-<!--
-    Fala dev! 👋
-    Seja bem-vindo ao meu perfil.
-    
-    README desenvolvido para representar minha identidade
-    como desenvolvedor Front-End / Full-Stack apaixonado
-    por tecnologia, UI/UX e construção de produtos digitais.
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316E96&height=120&section=header"/>
 
 <div align="center">
@@ -19,11 +10,10 @@
 
 # 💫 Sobre mim
 
-🎓 Estudante de Sistemas de Informação na UFU  
-💻 Desenvolvedor Front-End com experiência em aplicações escaláveis  
-🚀 Apaixonado por tecnologia, interfaces modernas e experiência do usuário  
-⚡ Forte atuação com Angular, TypeScript, TailwindCSS e integrações Full-Stack  
-🏃 Atleta universitário e apaixonado por performance dentro e fora do código  
+💻 Engenheiro Software com experiência em aplicações escaláveis  
+🚀 Apaixonado por tecnologia, UX/UI 
+⚡ Forte atuação com Angular, TypeScript, React e integrações 
+🏃 Atleta e apaixonado por performance dentro e fora do código  
 
 ---
 
