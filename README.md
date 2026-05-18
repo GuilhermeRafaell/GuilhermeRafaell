@@ -1,34 +1,142 @@
-## Opa eai!  
+<!--
+    Fala dev! 👋
+    Seja bem-vindo ao meu perfil.
+    
+    README desenvolvido para representar minha identidade
+    como desenvolvedor Front-End / Full-Stack apaixonado
+    por tecnologia, UI/UX e construção de produtos digitais.
+-->
 
-- 🌱 Formado no curso Sistema de Informação pela UFU e atleta nas horas vagas 😁 
-- 📒 Atualmente atuando como Full-Stack na empresa Kyros Tecnologia utilizando tecnologias como HTML, CSS, React , Node.js e Angular, TypeScript, JavaScript, Python, Java entre muitos outras linguagens
-- 🎓 Atualmente viso explorar todo conhecimento prático e teorico obtido em projetos de extensões, monitorias e nas disciplinas que cursei até então na universidade e em projetos extracurriculares. Tenho como objetivo criar diversos projetos,de minha vontade, que envolvam diferentes tópicos que venho aprendendo e disponibiliza-los aqui no meu repositório.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316E96&height=120&section=header"/>
 
-<div>
-  <a href="https://github.com/GuilhermeRafaell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRafaell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRafaell&layout=compact&langs_count=6&theme=dark"/>
-</div>
- 
+<div align="center">
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="V-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-  <img align="center" alt="V-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="V-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">          
-</div>
-  
-##
- 
- <div> 
-   <a href = "mailto:guilhermerafaelcd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilherm6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="Meude#7147" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/guilherme-rafael-a08b69230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=800&color=4DAF9A&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Guilherme+%F0%9F%91%8B;Front-End+Developer;Full-Stack+Developer;UI%2FUX+Lover;Angular+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
+
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+---
+
+# 💫 Sobre mim
+
+🎓 Estudante de Sistemas de Informação na UFU  
+💻 Desenvolvedor Front-End com experiência em aplicações escaláveis  
+🚀 Apaixonado por tecnologia, interfaces modernas e experiência do usuário  
+⚡ Forte atuação com Angular, TypeScript, TailwindCSS e integrações Full-Stack  
+🏃 Atleta universitário e apaixonado por performance dentro e fora do código  
+
+---
+
+# 🚀 Stack Principal
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,nodejs,java,spring,mysql,postgres,mongodb,git,github,docker,figma,postman,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+[![Learning](https://skillicons.dev/icons?i=aws,azure,kubernetes,nestjs)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 🎨 O que eu gosto de desenvolver
+
+✨ Interfaces modernas e responsivas  
+⚙️ Sistemas corporativos e aplicações escaláveis  
+📊 Dashboards e visualizações de dados  
+🔥 Design Systems e componentização  
+📱 Experiências fluidas focadas em UX  
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌎 Vamos nos conectar
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="SEU_GITHUB">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="SEU_INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="SEU_DISCORD">
+    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Experiência
+
+🧠 Desenvolvimento Front-End com foco em aplicações modernas  
+🔗 Integração entre Front-End e Back-End  
+📌 Participação ativa em decisões de arquitetura e regra de negócio  
+⚡ Desenvolvimento de interfaces performáticas e componentizadas  
+
+---
+
+# 🧩 Tecnologias que já utilizei
+
+<div align="center">
+
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,cs,dotnet,php,bootstrap,jest,jenkins,firebase,linux,blender,ps,notion,eclipse,idea)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 📫 Contato
+
+📧 guilhermerafaelcd@gmail.com  
+💼 LinkedIn: [https://linkedin.com/in/seu-linkedin  ](https://www.linkedin.com/in/guilherme-rafael-a08b69230/) 
+
+---
+
+<div align="center">
+
+### “Transformando ideias em experiências digitais.”
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316E96&height=120&section=footer"/>
+
+<!--
+    Obrigado por visitar meu perfil 😄
+-->
