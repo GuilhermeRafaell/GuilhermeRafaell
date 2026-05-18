@@ -57,31 +57,6 @@ Sou apaixonado por tecnologia, experiência do usuário, design de interfaces e 
 
 ---
 
-<!--
-     GitHub Stats
--->
-
-### GitHub Stats
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<!--
-     Conquistas
--->
-
-### Achievements
-
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
----
-
 ### Connect with me!
 
 <div>
