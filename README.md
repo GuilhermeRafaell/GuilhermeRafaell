@@ -13,10 +13,6 @@
     <img src=”https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=4DAF9A&width=600&lines=Olá%2C+eu+sou+Guilherme+Rafael;Software+Engineer;Front-End+Specialist;Angular+%7C+React+%7C+TypeScript;Building+modern+digital+experiences” alt=”Typing SVG”/>
 </a>
 
-<div>
-    <img src=”./assets/banner.gif” alt=”Banner GIF”/>
-</div>
-
 <!--
      Sobre mim
 -->
