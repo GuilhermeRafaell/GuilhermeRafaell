@@ -7,8 +7,6 @@
 
 ---
 
-<img width=100% src=”https://capsule-render.vercel.app/api?type=waving&color=316E96&height=120&section=header” alt=”header”/>
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=4DAF9A&width=600&lines=Opa%2C+eu+sou+Guilherme+Rafael;Software+Engineer;Front-End+Specialist;Angular+%7C+React+%7C+TypeScript;Building+modern+digital+experiences" alt="Typing SVG"/>
 </a>
@@ -90,5 +88,3 @@ Sou apaixonado por tecnologia, experiência do usuário, design de interfaces e 
 ### “Transformando ideias em experiências digitais modernas.”
 
 </div>
-
-<img width=100% src=”https://capsule-render.vercel.app/api?type=waving&color=316E96&height=120&section=footer” alt=”footer”/>
